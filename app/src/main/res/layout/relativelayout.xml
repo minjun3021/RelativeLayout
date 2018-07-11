@@ -11,7 +11,8 @@
         android:layout_alignParentTop="true"
         android:layout_toLeftOf="@id/layout_2"
         android:background="#ff0000"></RelativeLayout>
-
+        <!--alignParentLeft:소속된곳에 왼쪽에 붙겠다
+        toLeftOf:지정한 레이아웃의 왼쪽에 붙는다.-->
     <RelativeLayout
         android:id="@+id/layout_2"
         android:layout_width="100dp"
